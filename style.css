@@ -1216,7 +1216,7 @@ button:hover {
   .sec-text-title4 p,
   .sec-text-title5 p {
     font-size: 14px;
-    line-height: 1.7;
+      line-height: 1.7;
   }
 
 
@@ -1235,7 +1235,7 @@ button:hover {
 
 
   .order-section {
-    padding: 40px 15px;
+      padding: 40px 15px;
   }
 
   .order-section h2 {
@@ -1274,7 +1274,7 @@ button:hover {
 @media screen and (max-width: 380px) {
 
   .main-inner {
-    padding: 30px 5px;
+      padding: 30px 5px;
   }
 
   .title {
